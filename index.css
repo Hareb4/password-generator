@@ -1,0 +1,91 @@
+body {
+    margin: 0;
+    color: #374151;
+    font-family: "Inter", sans-serif;
+}
+
+.card {
+    width: 380px;
+    height: 450px;
+    margin: 50px auto;
+    background: #E0F2FE;
+    padding: 50px;
+    border-radius: 10px;
+    border: 10px solid #0EA5E9;
+}
+span {
+    color: #0EA5E9;
+}
+.color {
+    color: #0EA5E9
+}
+.btn {
+    padding: 10px 20px;
+    font-size: 17px;
+    background: #0EA5E9;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    margin-top: 20px;
+}
+.result {
+    margin-top: 10px;
+    display: flex;
+    align-items: center
+}
+.line {
+    width: 370px;
+    height: 50px;
+    border-bottom: 1px gray solid;
+    margin-bottom: 10px;
+}
+.pass {
+    margin: 8px 8px;
+    background: #273549;
+    width: 230px;
+    height: 50px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    color: #0EA5E9;
+}
+#length {
+    margin: 0px 10px;
+    background: none;
+    border: 4px solid #0EA5E9;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 20px;
+    width: 70px;
+    height: 14px;
+
+}
+input {
+    margin: 0px 10px;
+    background: white;
+    border: none;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 20px;
+    width: 70px;
+    height: 14px;
+}
+#forNUMSYM{
+    padding: 10px 20px;
+    font-size: 17px;
+    background: #0EA5E9;
+    color: white;
+    border-radius: 7px;
+    border: none;
+}
+#forNUMSYM:hover {
+    
+}
+#onoff{
+    width: 50px;
+    height: 40px;
+}
+#onoff2{
+    width: 50px;
+    height: 40px;
+}
