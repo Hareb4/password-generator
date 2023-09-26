@@ -13,12 +13,15 @@ body {
     border-radius: 10px;
     border: 10px solid #0EA5E9;
 }
+
 span {
     color: #0EA5E9;
 }
+
 .color {
     color: #0EA5E9
 }
+
 .btn {
     padding: 10px 20px;
     font-size: 17px;
@@ -28,17 +31,20 @@ span {
     border: none;
     margin-top: 20px;
 }
+
 .result {
     margin-top: 10px;
     display: flex;
     align-items: center
 }
+
 .line {
     width: 370px;
     height: 50px;
     border-bottom: 1px gray solid;
     margin-bottom: 10px;
 }
+
 .pass {
     margin: 8px 8px;
     background: #273549;
@@ -49,28 +55,27 @@ span {
     justify-content: center;
     color: #0EA5E9;
 }
+
 #length {
-    margin: 0px 10px;
-    background: none;
     border: 4px solid #0EA5E9;
     border-radius: 6px;
-    padding: 20px;
+    width: 7rem;
+    background: white;
     font-size: 20px;
-    width: 80px;
-    height: 14px;
-
+    padding: .5rem;
 }
+
 input {
+    width: 7rem;
     margin: 0px 10px;
     background: white;
-    border: none;
     border-radius: 6px;
-    padding: 10px;
+    border: 4px solid #0EA5E9;
     font-size: 20px;
-    width: 70px;
-    height: 14px;
+
 }
-#forNUMSYM{
+
+#forNUMSYM {
     padding: 10px 20px;
     font-size: 17px;
     background: #0EA5E9;
@@ -78,14 +83,15 @@ input {
     border-radius: 7px;
     border: none;
 }
-#forNUMSYM:hover {
-    
-}
-#onoff{
+
+#forNUMSYM:hover {}
+
+#onoff {
     width: 50px;
     height: 40px;
 }
-#onoff2{
+
+#onoff2 {
     width: 50px;
     height: 40px;
 }
